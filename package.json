@@ -1,7 +1,7 @@
 {
   "name": "@xiaoyimi/commitizen-config",
   "description": "Git Commit 提交规范配置包",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "keywords": [
     "git",
     "husky",

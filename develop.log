@@ -1,0 +1,9 @@
+## 发布操作
+
+### 自动版本号 +1 操作: npm version patch
+
+### 发布操作: npm publish
+
+### 特别注意：禁止使用 npm version patch && npm publish 命令操作，将导致多次发包。
+
+## 正式 v1 版本，确认为 v1.0.9 版本号。
