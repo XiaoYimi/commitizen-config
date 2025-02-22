@@ -81,7 +81,7 @@ module.exports = {
 
 ## 开发者信息
 
-<p>项目仓库地址: <a href="https://github.com/XiaoYimi@xiaoyimi/commitizen-config" target="_blank">https://github.com/XiaoYimi@xiaoyimi/commitizen-config</a></p>
+<p>项目仓库地址: <a href="https://github.com/XiaoYimi/commitizen-config" target="_blank">https://github.com/XiaoYimi/commitizen-config</a></p>
 
 <ul style="font-size: 14px;">
   <li>开发者：<code>筱依米</code></li>
